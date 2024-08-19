@@ -19,7 +19,7 @@
 - 📫 How to reach me
 <p align="center">
  <a href="https://www.linkedin.com/in/jaime-mila-luna/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://github.com/JaimeMLGT/jaimeml/"><img src="https://img.shields.io/badge/Github--_.svg?style=social&logo=github" alt="GitHub"></a>
+<a href="https://github.com/JaimeMLGT/"><img src="https://img.shields.io/badge/Github--_.svg?style=social&logo=github" alt="GitHub"></a>
 </p>
 
 
